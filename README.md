@@ -1,6 +1,7 @@
 # pySpark-pyData
 
 This is an example pySpark application created for pyData Warsaw 2019 talk.
+https://www.youtube.com/watch?v=Bp0XvA3wIXw&ab_channel=PyData
 
 This application uses MovieLens data set as a source data. This data can be downloaded here https://grouplens.org/datasets/movielens/
  or using `get_data.py` script included in this repository.
